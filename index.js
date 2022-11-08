@@ -1,17 +1,11 @@
-// TASK-1 START
+// 1
 
 // const a = 7 ;
 // const b = 8;
 // alert(a+b);
 
-// TASK-1 END 
 
-
-
-
-
-
-// TASK-2-3-4-5-6 START
+// 2-3-4-5-6
 
 // let userName = ''
 // let userSecondName = ''
@@ -75,32 +69,18 @@
 
 // console.table(worker)
 
-// TASK-2-3-4-5-6 END
 
 
-
-
-
-
-
-
-// TASK-7 START
+// 7
 
 // function myFunction(a,b){
 //     return a+b
 // }
 // console.log(myFunction(15,52))
 
-// TASK-7 END
 
 
-
-
-
-
-
-
-// TASK-8 START
+// 8 
 
 // let a
 // let b
@@ -113,15 +93,10 @@
 //  }
 //  console.log(myFunction(4,3))
 
-// TASK-8 END
 
 
 
-
-
-
-
-// TASK-9 START
+// 9 
 
 // let a = prompt('enter first number: ')
 // if(isNaN(Number(a))) {
@@ -148,6 +123,5 @@
 //     alert('INCORRECT OPERATOR! PLEASE TRY AGAIN!')
 // }
 
-// TASK-9 END
 
 
